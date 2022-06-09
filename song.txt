@@ -3,6 +3,7 @@ And quickly he's subdued
 Through constant pained disgrace
 The young boy learns their rules
 
+<<<<<<< HEAD
 With time the child draws in
 This whipping boy done wrong
 Deprived of all his thoughts
@@ -10,3 +11,7 @@ The young man struggles on and on, he's known
 Ooh, a vow unto his own
 That never from this day
 His will they'll take away
+=======
+
+
+>>>>>>> aae6a2713200636adc4c7ba62bbafc9488715415
